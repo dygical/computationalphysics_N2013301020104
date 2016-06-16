@@ -5,11 +5,11 @@
 
 ###源代码和论文都已上传。
 
-####[论文]<https://github.com/dygical/computationalphysics_N2013301020104/blob/master/%E7%94%A8Python%E5%86%99%E4%B8%80%E4%B8%AA%E8%B4%AA%E5%90%83%E8%9B%87%E6%B8%B8%E6%88%8F.docx>
+####[论文](https://github.com/dygical/computationalphysics_N2013301020104/blob/master/%E7%94%A8Python%E5%86%99%E4%B8%80%E4%B8%AA%E8%B4%AA%E5%90%83%E8%9B%87%E6%B8%B8%E6%88%8F.docx)
 
-[源码1]<https://github.com/dygical/computationalphysics_N2013301020104/blob/master/snake-draft.py>
+####[源码1](https://github.com/dygical/computationalphysics_N2013301020104/blob/master/snake-draft.py)
 
-[源码2]<https://github.com/dygical/computationalphysics_N2013301020104/blob/master/snake.py>
+####[源码2](https://github.com/dygical/computationalphysics_N2013301020104/blob/master/snake.py)
 
 ##第三次作业
 
